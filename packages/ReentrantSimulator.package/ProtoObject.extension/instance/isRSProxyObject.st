@@ -1,4 +1,0 @@
-*ReentrantSimulator
-isRSProxyObject
-
-	^ false
