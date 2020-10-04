@@ -1,0 +1,4 @@
+passthrough instruction decoding
+methodReturnReceiver
+
+	^ currentContext methodReturnReceiver

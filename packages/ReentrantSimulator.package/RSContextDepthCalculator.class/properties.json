@@ -1,0 +1,16 @@
+{
+	"category" : "ReentrantSimulator-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"cache",
+		"rootContext",
+		"fixedOffset" ],
+	"name" : "RSContextDepthCalculator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

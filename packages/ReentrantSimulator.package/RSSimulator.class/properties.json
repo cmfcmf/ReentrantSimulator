@@ -1,0 +1,17 @@
+{
+	"category" : "ReentrantSimulator-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"SkippedSelectors" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"currentContext",
+		"recorder",
+		"depthCalculator",
+		"quickSteppedCategories" ],
+	"name" : "RSSimulator",
+	"pools" : [
+		 ],
+	"super" : "InstructionClient",
+	"type" : "normal" }

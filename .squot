@@ -1,0 +1,4 @@
+OrderedDictionary {
+	'packages/ReentrantSimulator' : #SquotTonelSerializer,
+	'packages/ReentrantSimulator.package' : #SquotCypressCodeSerializer
+}

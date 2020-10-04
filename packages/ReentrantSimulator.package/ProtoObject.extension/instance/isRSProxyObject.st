@@ -1,0 +1,4 @@
+*ReentrantSimulator
+isRSProxyObject
+
+	^ false

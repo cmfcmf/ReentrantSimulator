@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"exists" : "cmfcmf 10/4/2020 15:58",
+		"nuke" : "cmfcmf 10/4/2020 16:00",
+		"wrap:" : "cmfcmf 10/4/2020 14:43" },
+	"instance" : {
+		"doesNotUnderstand:" : "cmfcmf 10/4/2020 15:13",
+		"identityHash" : "cmfcmf 10/4/2020 14:43",
+		"isRSProxyObject" : "cmfcmf 10/4/2020 14:37",
+		"rsProxyUnwrap" : "cmfcmf 10/4/2020 15:48",
+		"rsSetProxiedObject:" : "cmfcmf 10/4/2020 14:44" } }

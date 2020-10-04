@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testNuke" : "cmfcmf 10/4/2020 16:01",
+		"testPassesThroughMessages" : "cmfcmf 10/4/2020 15:51",
+		"testUnWrap" : "cmfcmf 10/4/2020 16:01",
+		"testWrapsCorrectly" : "cmfcmf 10/4/2020 16:01" } }

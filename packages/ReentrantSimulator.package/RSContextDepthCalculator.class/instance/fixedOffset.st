@@ -1,0 +1,4 @@
+accessing
+fixedOffset
+
+	^ fixedOffset

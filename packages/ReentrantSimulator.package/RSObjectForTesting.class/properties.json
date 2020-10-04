@@ -1,0 +1,14 @@
+{
+	"category" : "ReentrantSimulator-Tests-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RSObjectForTesting",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

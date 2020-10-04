@@ -1,0 +1,14 @@
+{
+	"category" : "ReentrantSimulator-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RSRestartTracingNotification",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

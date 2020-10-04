@@ -1,0 +1,14 @@
+{
+	"category" : "ReentrantSimulator-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cmfcmf 10/4/2020 16:04",
+	"instvars" : [
+		"proxiedObject" ],
+	"name" : "RSProxyObject",
+	"pools" : [
+		 ],
+	"super" : "ProtoObject",
+	"type" : "normal" }

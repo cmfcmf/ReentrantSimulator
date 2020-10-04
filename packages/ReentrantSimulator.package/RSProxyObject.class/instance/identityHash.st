@@ -1,0 +1,4 @@
+comparing
+identityHash
+
+	^ proxiedObject identityHash 
