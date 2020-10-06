@@ -1,6 +1,5 @@
 {
 	"class" : {
-		"initialize" : "cmfcmf 10/4/2020 15:09",
 		"simulate:withRecorder:" : "cmfcmf 10/4/2020 15:08",
 		"simulateIfNeeded:additionalDepth:" : "cmfcmf 10/6/2020 13:14",
 		"trace:" : "cmfcmf 10/6/2020 14:20",

@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfReentrantSimulator",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfReentrantSimulator",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
