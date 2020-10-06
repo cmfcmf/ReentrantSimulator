@@ -1,4 +1,4 @@
-private
+public
 simulate: aBlock withRecorder: aRecorder
 	
 	| simulationContext rootContext |

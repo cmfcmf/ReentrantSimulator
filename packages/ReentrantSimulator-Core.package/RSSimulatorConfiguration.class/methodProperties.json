@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"default" : "cmfcmf 10/6/2020 14:29",
+		"empty" : "cmfcmf 10/6/2020 13:38" },
+	"instance" : {
+		"initialize" : "cmfcmf 10/6/2020 14:14",
+		"quickCategories" : "cmfcmf 10/6/2020 13:36",
+		"quickClassSelectors" : "cmfcmf 10/6/2020 13:36",
+		"quickClasses" : "cmfcmf 10/6/2020 13:36",
+		"quickSelectors" : "cmfcmf 10/6/2020 13:35",
+		"shouldClassBeQuickStepped:" : "cmfcmf 10/6/2020 14:23",
+		"shouldQuickStepForClass:andSelector:" : "cmfcmf 10/6/2020 14:16",
+		"shouldWrapBlockArgsWhenQuickStepping" : "cmfcmf 10/6/2020 13:43",
+		"shouldWrapNonBlockArgsWhenQuickStepping" : "cmfcmf 10/6/2020 13:43",
+		"wrapBlocks:" : "cmfcmf 10/6/2020 14:29",
+		"wrapNonBlocks:" : "cmfcmf 10/6/2020 14:29" } }

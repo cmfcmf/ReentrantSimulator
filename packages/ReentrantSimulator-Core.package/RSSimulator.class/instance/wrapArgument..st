@@ -2,8 +2,11 @@ private quick-stepping
 wrapArgument: arg
 	
 	^ arg isBlock 
-		ifFalse: [(self shouldClassBeQuickStepped: arg class) ifTrue: [arg] ifFalse: [RSProxyObject wrap: arg]] 
+		ifFalse: [(self config shouldWrapNonBlockArgsWhenQuickStepping and: [(self config shouldClassBeQuickStepped: arg class) == #no]) 
+			ifTrue: [RSProxyObject wrap: arg]
+			ifFalse: [arg]] 
 		ifTrue: [
+			self config shouldWrapBlockArgsWhenQuickStepping ifFalse: [^ arg].
 			arg numArgs caseOf: {
 				[0] -> [[RSSimulator simulateIfNeeded: arg additionalDepth: 0]].
 				[1] -> [[:a1 | RSSimulator simulateIfNeeded: [arg value: a1] additionalDepth: 0]].

@@ -23,7 +23,7 @@ send: selector super: superFlag numArgs: numArgs
 	" 
 	selector == #simulateIfNeeded:additionalDepth: ifTrue: [arguments at: 2 put: -1].
 	
-	quick := self shouldQuickStepForClass: lookupClass andSelector: selector.
+	quick := self config shouldQuickStepForClass: lookupClass andSelector: selector.
 	quick ~= #no ifTrue: [
 		^ self doQuick: quick selector: selector rcvr: thisReceiver arguments: arguments lookupClass: lookupClass].
 		

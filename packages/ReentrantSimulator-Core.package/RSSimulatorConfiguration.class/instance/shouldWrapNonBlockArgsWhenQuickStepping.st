@@ -1,0 +1,4 @@
+testing
+shouldWrapNonBlockArgsWhenQuickStepping
+	
+	^ wrapOther
