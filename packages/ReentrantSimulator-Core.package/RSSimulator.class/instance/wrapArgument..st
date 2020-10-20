@@ -1,6 +1,6 @@
 private quick-stepping
 wrapArgument: arg
-	
+
 	^ arg isBlock 
 		ifFalse: [(self config shouldWrapNonBlockArgsWhenQuickStepping and: [(self config shouldClassBeQuickStepped: arg class) == #no]) 
 			ifTrue: [RSProxyObject wrap: arg]

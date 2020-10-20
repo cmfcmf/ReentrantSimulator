@@ -4,5 +4,4 @@ initialize
 
 	super initialize.
 	depthCalculator := RSContextDepthCalculator new.
-	quickSteppedCategories := OrderedCollection new.
 	config := RSSimulatorConfiguration empty

@@ -16,7 +16,7 @@
 		"doPop" : "cmfcmf 9/2/2020 13:31",
 		"doPrimitive:method:receiver:args:" : "cmfcmf 9/22/2020 16:13",
 		"doQuick:selector:rcvr:arguments:lookupClass:" : "cmfcmf 10/4/2020 17:47",
-		"initialize" : "cmfcmf 10/6/2020 13:40",
+		"initialize" : "cmfcmf 10/16/2020 00:17",
 		"jump:" : "cmfcmf 9/2/2020 13:31",
 		"jump:if:" : "cmfcmf 9/2/2020 13:31",
 		"methodReturnConstant:" : "cmfcmf 9/4/2020 16:23",
@@ -41,10 +41,10 @@
 		"recordAssertionHit:" : "cmfcmf 9/24/2020 18:20",
 		"recordProbeHit:" : "cmfcmf 9/24/2020 18:20",
 		"send:super:numArgs:" : "cmfcmf 10/6/2020 14:10",
-		"send:to:with:lookupIn:" : "cmfcmf 10/6/2020 14:11",
+		"send:to:with:lookupIn:" : "cmfcmf 10/13/2020 12:21",
 		"simulate:withRecorder:" : "cmfcmf 10/4/2020 15:04",
 		"simulateNextInstruction" : "cmfcmf 9/22/2020 15:26",
-		"simulateWithExistingRecorder:additionalDepth:" : "cmfcmf 10/6/2020 13:40",
+		"simulateWithExistingRecorder:additionalDepth:" : "cmfcmf 10/20/2020 16:43",
 		"storeIntoLiteralVariable:" : "cmfcmf 9/2/2020 13:31",
 		"storeIntoReceiverVariable:" : "cmfcmf 9/2/2020 13:31",
 		"storeIntoRemoteTemp:inVectorAt:" : "cmfcmf 9/2/2020 13:31",
@@ -52,4 +52,4 @@
 		"trace:" : "cmfcmf 10/6/2020 14:19",
 		"trace:on:" : "cmfcmf 10/4/2020 15:18",
 		"trapIfNotInstanceOf:" : "cmfcmf 9/2/2020 13:31",
-		"wrapArgument:" : "cmfcmf 10/6/2020 14:09" } }
+		"wrapArgument:" : "cmfcmf 10/20/2020 17:14" } }

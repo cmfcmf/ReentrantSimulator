@@ -19,7 +19,7 @@ send: selector to: rcvr with: arguments lookupIn: lookupClass
 		"^ self quickSend: selector to: rcvr with: arguments lookupIn: lookupClass"
 		"^self send: #valueWithReceiver:arguments: to: meth with: {rcvr. arguments} lookupIn: meth class"
 		| quick |
-		quick := self config shouldQuickStepForClass: rcvr andSelector: selector.
+		quick := self config shouldQuickStepForClass: rcvr class andSelector: selector.
 		^ quick ~= #no 
 			ifTrue: [self doQuick: quick selector: #valueWithReceiver:arguments: rcvr: meth arguments: {rcvr. arguments} lookupClass: meth class]
 			ifFalse: [self send: #valueWithReceiver:arguments: to: meth with: {rcvr. arguments} lookupIn: meth class]].
